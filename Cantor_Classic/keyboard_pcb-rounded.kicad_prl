@@ -64,8 +64,8 @@
       39,
       40
     ],
-    "visible_layers": "fffffff_ffffffff",
-    "zone_display_mode": 1
+    "visible_layers": "8000002_ffffffff",
+    "zone_display_mode": 0
   },
   "git": {
     "repo_password": "",
@@ -74,7 +74,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "keyboard_pcb.kicad_prl",
+    "filename": "keyboard_pcb-rounded.kicad_prl",
     "version": 3
   },
   "project": {

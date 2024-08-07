@@ -438,7 +438,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "keyboard_pcb.kicad_pro",
+    "filename": "backplate.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -473,7 +473,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "./gerber",
+      "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
